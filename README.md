@@ -11,6 +11,7 @@ is one such model in which a feedback loop is introduced in an algorithm so that
 LSTM - Long Short Term Memory (LSTM) networks are a type of RNN that can learn long-term dependencies. The long-term reliance problem is addressed with LSTMs. It is 
 their natural tendency to remember knowledge for extended periods of time.
 
+
 ## Libraries used
 
 1. pandas
@@ -19,4 +20,3 @@ their natural tendency to remember knowledge for extended periods of time.
 4. statsmodels
 5. sklearn
 6. keras
-7. 
